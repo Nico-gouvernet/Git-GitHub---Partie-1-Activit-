@@ -1,0 +1,12 @@
+body{
+	background-color: green;
+}
+
+p{
+	font-size: 1em;
+	font-family: sans-serif;
+	font-style: italic;
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+}
